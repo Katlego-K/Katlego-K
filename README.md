@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katlego-K
 - 👀 I’m interested in ...Automation Testing and Software Development
-- 🌱 I’m currently learning ...Test Automation University
+- 🌱 I’m currently enhancing my spring boot skills by developing projects
 - 💞️ I’m looking to collaborate on ...Small projects
 - 📫 How to reach me ...LinkedIn
 
